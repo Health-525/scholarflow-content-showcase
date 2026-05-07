@@ -1,4 +1,4 @@
-# jiangshu-study-showcase
+# scholarflow-content-showcase
 
 > ScholarFlow 内容层展示骨架仓库
 >
@@ -30,7 +30,7 @@
 ## 核心结构
 
 ```text
-jiangshu-study-showcase/
+scholarflow-content-showcase/
 ├── 00-项目说明/          # 系统说明与使用方式
 ├── 01-课程样例/          # 脱敏后的课程笔记/作业样例
 ├── 08-AI学习/            # 知识研究类样例
@@ -58,7 +58,7 @@ jiangshu-study-showcase/
 ## 与执行层的关系
 
 - 内容层：本仓库，负责阅读、编辑、沉淀
-- 执行层：`timetable-showcase`，负责脚本、工作流、数据处理和自动回写
+- 执行层：`scholarflow-engine-showcase`，负责脚本、工作流、数据处理和自动回写
 
 建议结合执行层展示仓库一起看，能够更完整理解双仓库协同架构。
 
